@@ -1,0 +1,13 @@
+{
+  "name": "pvz-novice-server",
+  "version": "1.0.0",
+  "description": "PvZ Novice Multiplayer Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.2"
+  }
+}
